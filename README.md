@@ -1,5 +1,6 @@
 # Predicting the Next Big Game
-The original source code is not publicly available due to course/project restrictions.
+> [!NOTE]
+> The original source code is not publicly available due to course/project restrictions.
 
 Group Members: Omar Spiller Hernandez, Scott Lam, Evan Carey, David Gil
 
